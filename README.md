@@ -1,5 +1,5 @@
 # hello-world
 hello-world
 
-hello everyone, this a test to commit changes. 
+hello eachone, this a test to commit changes. 
 test3
